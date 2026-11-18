@@ -16,6 +16,9 @@ git clone https://github.com/hilalunivers08/tiktok-batch-downloader-(terminal).g
 cd tiktok-batch-downloader-(terminal)
 pip install -r requirements.txt
 ```
+## Third-Party Services
+- [MusicallyDown](https://musicaldown.com/)
+- Used as an external services for processing Tiktok video download requests
 
 ## License
 
@@ -23,4 +26,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤ by [hilalunivers08](https://github.com/hilalunivers08)
+Made with ❤ by [hilalunivers08](https://github.com/hilalunivers08) and [chatGPT](https://chatgpt.com)
+
